@@ -1,6 +1,4 @@
 node_modules
 .idea
-<<<<<<< HEAD
-=======
 dist
->>>>>>> refactor: install main configuration, plugins, loaders Webpack
+
